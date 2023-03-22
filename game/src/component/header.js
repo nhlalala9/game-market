@@ -26,7 +26,7 @@ const Header = () => {
                                 <Card.Img variant="top" src={Chess} />
                                 <div className="button">
                                     <Button variant="primary">Play</Button>
-                                    <Button variant="primary">LeaderBoard</Button>
+                                    <Button variant="primary">Leader</Button>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -42,7 +42,7 @@ const Header = () => {
                                 <Card.Img variant="top" src={Checkers} />
                                 <div className="button">
                                     <Button variant="primary">Play</Button>
-                                    <Button variant="primary">LeaderBoard</Button>
+                                    <Button variant="primary">Leader</Button>
                                 </div>
 
                             </Card.Body>
