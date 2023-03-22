@@ -1,5 +1,5 @@
 import './App.css';
-import Header from './component/header';
+import Header from './component/header'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
